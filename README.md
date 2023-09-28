@@ -48,15 +48,15 @@ Discover a series of data analyses leveraging popular Python libraries. These an
 
 1. [**Risk and Returns: The Sharpe Ratio**](https://github.com/monikaglazz/Portfolio/tree/main/Risk%20and%20Returns%3B%20The%20Sharpe%20Ratio)
    - Description: This project applies the Sharpe Ratio to real financial data using pandas, helping assess risk-adjusted returns for investment decisions.
-   - Files: `risk_and_returns.py`, `stock_data.csv`
+   - Files: `analysis.ipynb`, `stock_data.csv`, `benchmark_data.csv`, `iris.csv`
 
 2. [**Analyzing TV data**](https://github.com/monikaglazz/Portfolio/tree/main/Analyzing%20TV%20data)
    - Description: Explore Super Bowl Data to gain insights into game outcomes, viewership and halftime shows.
-   - Files: `halftime_musicians.csv`, `super_bowls.csv`, `tv.csv`, `tv_data.py`
+   - Files: `halftime_musicians.csv`, `super_bowls.csv`, `tv.csv`, `analysis.ipynb`
   
 3. [**Investigating Netflix movies and guest stars in The Office**](https://github.com/monikaglazz/Portfolio/tree/main/Investigating%20Netflix%20movies%20and%20guest%20stars%20in%20The%20Office)
    - Description: Uncover trends in Netflix movie lengths and identify top guest stars in the most popular episode of "The Office" using a combination of lists, loops, pandas, and matplotlib.
-   - Files: `netflix_data.csv`, `netflix_films.py`
+   - Files: `netflix_data.csv`, `analysis.ipynb`, `color_data.csv`
 
 ## Author
 
