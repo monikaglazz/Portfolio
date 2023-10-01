@@ -21,6 +21,10 @@ Explore a collection of SQL analyses that delve into different datasets, providi
 2. [**International Debt Statistics**](https://github.com/monikaglazz/Portfolio/tree/main/International%20Debt%20Statistics)
    - Description: Analysis of international debt data collected by The World Bank.
    - Files: `international_debt.sql`, `international_debt.csv`, `analysis.ipynb`
+  
+3. [**What and Where are the World's Oldest Businesses**](https://github.com/monikaglazz/Portfolio/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
+   - Description: Exploring dataset to find out where, what and in which category are the oldest businesses on the world.
+   - Files: `database.sql`, `database_diagram`, `analysis.ipynb`, `businesses.csv`, `categories.csv`, `countries.csv`
 
 ### Database Projects
 
