@@ -26,6 +26,14 @@ Explore a collection of SQL analyses that delve into different datasets, providi
    - Description: Exploring dataset to find out where, what and in which category are the oldest businesses on the world.
    - Files: `database.sql`, `database_diagram`, `analysis.ipynb`, `businesses.csv`, `categories.csv`, `countries.csv`
 
+4. [**Analyzing NYC Public School Test Result Scoress**](https://github.com/monikaglazz/Portfolio/tree/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
+   - Description: Explore NYC's public school test performance data using SQL. Analyze variations by borough, identify schools with missing information, and discover the top ten performing schools in the city.
+   - Files: `database.sql`, `schools_modified.csv`, `analysis.ipynb`
+
+5. [**Analyzing Students' Mental Health**](https://github.com/monikaglazz/Portfolio/tree/main/Analyzing%20Students'%20Mental%20Health)
+   - Description: Explore international university's student database using PostgreSQL. Uncover factors influencing mental health to better understand the challenges and experiences of studying abroad.
+   - Files: `students.csv`, `analysis.ipynb`
+
 ### Database Projects
 
 Dive into meticulously designed database projects, each tailored to address specific use cases and scenarios. These projects demonstrate proficiency in database architecture, normalization, and optimization, ensuring efficient data management and retrieval.
