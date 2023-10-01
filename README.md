@@ -46,6 +46,10 @@ Dive into meticulously designed database projects, each tailored to address spec
    - Description: An e-commerce database, handling product listings, customer orders, payment processing, and inventory management, ensuring a seamless online shopping experience for users.
    - Files: `shop_db.sql`, `shop_db_data.sql`, `schema.diagram`, `osd_schema.png`
   
+5. [**Designing a Bank Marketing Database**](https://github.com/monikaglazz/Portfolio/tree/main/Designing%20a%20Bank%20Marketing%20Database)
+   - Description: Clean, reformat, and segment data for database creation.
+   - Files: `design.ipynb`, `bank_marketing.csv`, `campaign.csv`, `client.csv`, `economics.csv`
+  
 ### Data Analyses with Python
 
 Discover a series of data analyses leveraging popular Python libraries. These analyses encompass a wide array of topics and datasets, showcasing the versatility of Python in exploratory data analysis and visualization.
