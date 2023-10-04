@@ -37,6 +37,10 @@ Explore a collection of SQL analyses that delve into different datasets, providi
 6. [**When Was the Golden Age of Video Games?**](https://github.com/monikaglazz/Portfolio/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%3F)
    - Description: Explore the top 400 best-selling video games created between 1977 and 2020. Compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
    - Files: `analysis.ipynb`
+  
+7. [**Analyzing Industry Carbon Emissions**]()
+   - Description: 
+   - Files: `analysis.ipynb`
 
 ### Database Projects
 
