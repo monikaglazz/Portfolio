@@ -27,19 +27,19 @@ Explore a collection of SQL analyses that delve into different datasets, providi
    - Files: `database.sql`, `database_diagram`, `analysis.ipynb`, `businesses.csv`, `categories.csv`, `countries.csv`
 
 4. [**Analyzing NYC Public School Test Result Scoress**](https://github.com/monikaglazz/Portfolio/tree/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
-   - Description: Explore NYC's public school test performance data using SQL. Analyze variations by borough, identify schools with missing information, and discover the top ten performing schools in the city.
+   - Description: Exploring NYC's public school test performance data using SQL. Analyzing variations by borough, identify schools with missing information, and discover the top ten performing schools in the city.
    - Files: `database.sql`, `schools_modified.csv`, `analysis.ipynb`
 
 5. [**Analyzing Students' Mental Health**](https://github.com/monikaglazz/Portfolio/tree/main/Analyzing%20Students'%20Mental%20Health)
-   - Description: Explore international university's student database using PostgreSQL. Uncover factors influencing mental health to better understand the challenges and experiences of studying abroad.
+   - Description: Exploring international university's student database using PostgreSQL. Uncovering factors influencing mental health to better understand the challenges and experiences of studying abroad.
    - Files: `students.csv`, `analysis.ipynb`
 
 6. [**When Was the Golden Age of Video Games?**](https://github.com/monikaglazz/Portfolio/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%3F)
-   - Description: Explore the top 400 best-selling video games created between 1977 and 2020. Compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
+   - Description: Exploring the top 400 best-selling video games created between 1977 and 2020. Comparing a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
    - Files: `analysis.ipynb`
   
-7. [**Analyzing Industry Carbon Emissions**]()
-   - Description: 
+7. [**Analyzing Industry Carbon Emissions**](https://github.com/monikaglazz/Portfolio/tree/main/Analyzing%20Industry%20Carbon%20Emissions)
+   - Description: Exploring the database of a carbon emissions across various industries, Gaining insights into which industries are the largest contributors to global emissions.
    - Files: `analysis.ipynb`
 
 ### Database Projects
