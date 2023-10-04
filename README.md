@@ -34,6 +34,10 @@ Explore a collection of SQL analyses that delve into different datasets, providi
    - Description: Explore international university's student database using PostgreSQL. Uncover factors influencing mental health to better understand the challenges and experiences of studying abroad.
    - Files: `students.csv`, `analysis.ipynb`
 
+6. [**When Was the Golden Age of Video Games?**]()
+   - Description: Explore the top 400 best-selling video games created between 1977 and 2020. Compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
+   - Files: `analysis.ipynb`
+
 ### Database Projects
 
 Dive into meticulously designed database projects, each tailored to address specific use cases and scenarios. These projects demonstrate proficiency in database architecture, normalization, and optimization, ensuring efficient data management and retrieval.
