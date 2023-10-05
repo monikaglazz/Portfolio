@@ -42,6 +42,10 @@ Explore a collection of SQL analyses that delve into different datasets, providi
    - Description: Exploring the database of a carbon emissions across various industries, Gaining insights into which industries are the largest contributors to global emissions.
    - Files: `analysis.ipynb`
 
+8. [**Analyzing American Baby Name Trends**](https://github.com/monikaglazz/Portfolio/tree/main/Analyzing%20American%20Baby%20Name%20Trends)
+   - Description: Exploring how have American baby name tastes changed since 1920. Analysis which names have remained popular for over 100 years, and how do those names compare to more recent top baby names.
+   - Files: `analysis.ipynb`, `usa_baby_names.csv`, `createdb.sql`
+
 ### Database Projects
 
 Dive into meticulously designed database projects, each tailored to address specific use cases and scenarios. These projects demonstrate proficiency in database architecture, normalization, and optimization, ensuring efficient data management and retrieval.
