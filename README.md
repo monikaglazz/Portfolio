@@ -86,6 +86,12 @@ Discover a series of data analyses leveraging popular Python libraries. These an
    - Description: Uncover trends in Netflix movie lengths and identify top guest stars in the most popular episode of "The Office" using a combination of lists, loops, pandas, and matplotlib.
    - Files: `netflix_data.csv`, `analysis.ipynb`, `color_data.csv`
 
+### ETL in Python
+
+1. [**Building a Retail Data Pipeline**](https://github.com/monikaglazz/Portfolio/tree/main/Building%20a%20Retail%20Data%20Pipeline)
+   - Description: Working with retail data from a multinational retail corporation Walmart. Retrieving data from different sources, like SQL and parquet, preparing the data using some transformation techniques, and finally loading the data in an easy-to-access format.
+   - Files: `data_etl.ipynb`, `agg_data.ipynb`, `clean_data.csv`, `extra_data.parquet`
+
 ## Author
 
 Monika Głaz
